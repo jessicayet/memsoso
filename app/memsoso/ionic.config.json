@@ -1,0 +1,7 @@
+{
+  "name": "memsoso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
